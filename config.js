@@ -60,16 +60,16 @@ global.payment = {
 
 // API Configuration
 global.api = {
-  btch: 'Vynaaaanjaymabar',
-  rose: 'Prod-Sk-8e499dd622744eac3a99ca18adc1d4e5',
+  btch: '_',
+  rose: '_',
 };
 global.APIs = {
   btch: 'https://api.botcahx.eu.org',
   rose: 'https://api.itsrose.rest',
 };
 global.APIKeys = {
-  'https://api.botcahx.eu.org': 'Vynaaaanjaymabar',
-  'https://api.itsrose.rest': 'Prod-Sk-8e499dd622744eac3a99ca18adc1d4e5',
+  'https://api.botcahx.eu.org': '_',
+  'https://api.itsrose.rest': '_',
 };
 
 // Watch for File Changes
