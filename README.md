@@ -1,4 +1,4 @@
-# <img src="https://files.catbox.moe/i99gvd.jpg" width="50" height="50" /> Vynaa MD - WhatsApp Bot 🤖
+# <img src="https://files.catbox.moe/ejlhec.jpg" width="640" height="360" /> Vynaa MD - WhatsApp Bot 🤖
 
 > **Vynaa MD** adalah bot WhatsApp multifungsi dengan tema modern dan yang cantik! 🌸  
 > Didesain untuk memberikan pengalaman chatting yang seru dan bermanfaat, Vynaa MD siap menemani hari-harimu! 💖
@@ -38,7 +38,7 @@
 
 ## 🎀 **GIF Lucu Vynaa MD**
 
-![GIF Lucu](https://files.catbox.moe/1j75lm.mp4)
+![GIF Lucu](https://files.catbox.moe/5jvw1w.jpg)
 
 ---
 
