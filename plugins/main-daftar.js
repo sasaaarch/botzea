@@ -61,7 +61,7 @@ let handler = async function (m, { text, usedPrefix, command }) {
     }, m);
 
     // Mengirim notifikasi ke channel WhatsApp dengan foto profil
-    const idChannel = '120363321263740135@newsletter'; // Ganti dengan ID channel Anda
+    const idChannel = '@newsletter'; // Ganti dengan ID channel Anda
     let notificationCaption = `
 @${m.sender.split('@')[0]} telah berhasil terdaftar ✅
 Selamat datang, nikmati fitur saya!`;
