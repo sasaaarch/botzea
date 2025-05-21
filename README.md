@@ -7,6 +7,8 @@
 
 ## 🌟 **Fitur Utama**
 
+## ✅ FIX PAIRING CODE - SUPPORT QR CODE 
+
 ### 🌍 **Auto Gempa**
    - Dapatkan informasi gempa terkini secara otomatis.
    - Tetap waspada dengan update gempa terbaru.
@@ -66,6 +68,14 @@ Kunjungi repositori GitHub Vynaa MD untuk melihat kode sumber dan berkontribusi:
 
 Jika Anda ingin berkontribusi atau melaporkan bug, silakan buka [issue](https://github.com/VynaaValerie/VynaaMD/issues) di repositori ini.
 
+
+## 💞 CMD RUN TERMUX 
+## Cara Install dan Jalankan di Termux
+
+Salin dan jalankan perintah di bawah ini langsung di Termux:
+
+```bash
+pkg update -y && pkg upgrade -y && pkg install -y nodejs git ffmpeg imagemagick && git clone https://github.com/VynaaValerie/VynaaMD.git && cd VynaaMD && npm install && npm start
 ---
 
 ## 📜 **Lisensi**
