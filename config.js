@@ -42,8 +42,8 @@ global.owner = [
 
 // Bot Information
 global.info = {
-  nomerbot: '6283896757956',
-  pairingNumber: '6283896757956',
+  nomerbot: 'GANTI_NOMORBOT_MU',
+  pairingNumber: 'GANTI_NOMORBOT_MU',
   nameown: 'Pinaa',
   nomerown: '6282389924037',
   token: 'VynaaMD1a2b3c', // Token harus diisi agar bot dapat berjalan
