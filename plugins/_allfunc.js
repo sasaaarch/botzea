@@ -1,3 +1,11 @@
+/*
+wa.me/6282285357346
+github: https://github.com/sadxzyq
+Instagram: https://instagram.com/tulisan.ku.id
+ini wm gw cok jan di hapus
+*/
+
+
 import axios from 'axios'
 let handler = m => m
 handler.all = async function (m) {
