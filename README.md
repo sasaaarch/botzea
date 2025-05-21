@@ -83,7 +83,7 @@ Let’s connect and grow with *Vynaa Valerie*! 🎀
 - 🎮 *Discord*: [https://discord.gg/c6wYDZfhhc](https://discord.gg/c6wYDZfhhc)
 - 📸 *Instagram*: [https://instagram.com/vynaa_valerie](https://instagram.com/vynaa_valerie)
 - 📲 *WhatsApp Group*: [https://chat.whatsapp.com/E4mlqRRbWPdIzhOI7JnIgx](https://chat.whatsapp.com/E4mlqRRbWPdIzhOI7JnIgx)
-- 📩 *Direct Message*: [https://wa.me/message/2MOJNXNC45Y5E1](https://wa.me/message/2MOJNXNC45Y5E1)
+- 📩 *Direct Message*: [https://wa.me/6282389924037](https://wa.me/6282389924037)
 
 ---
 
