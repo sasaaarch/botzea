@@ -1,6 +1,6 @@
 # <img src="https://files.catbox.moe/ejlhec.jpg" width="640" height="360" /> Vynaa MD - WhatsApp Bot 🤖
 
-> **Vynaa MD** adalah bot WhatsApp multifungsi dengan tema modern dan yang cantik! 🌸  
+> **Zea Bot** adalah bot WhatsApp multifungsi dengan tema modern dan yang cantik! 🌸  
 > Didesain untuk memberikan pengalaman chatting yang seru dan bermanfaat, Vynaa MD siap menemani hari-harimu! 💖
 
 ---
