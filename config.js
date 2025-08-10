@@ -42,20 +42,20 @@ global.owner = [
 
 // Bot Information
 global.info = {
-  nomerbot: 'GANTI_NOMORBOT_MU',
-  pairingNumber: 'GANTI_NOMORBOT_MU',
-  nameown: 'Pinaa',
-  nomerown: '6282389924037',
+  nomerbot: '6285947653917',
+  pairingNumber: '6285947653917',
+  nameown: 'sasa',
+  nomerown: '6285947653917',
   token: 'VynaaMD1a2b3c', // Token harus diisi agar bot dapat berjalan
-  packname: 'sticker by',
-  author: 'Vynaa Valerie',
-  namebot: 'Vynaa MD 10.23',
-  wm: 'made by Pinaa',
-  stickpack: 'YTB Vynaa Valerie',
-  stickauth: 'S U B S C R I B E',
+  packname: '',
+  author: 'sasa',
+  namebot: 'Zea Bot',
+  wm: '',
+  stickpack: '',
+  stickauth: '',
 };
 
-global.wait = '_M O H O N - T U N G G U_'; // Pesan saat menunggu
+global.wait = '_T U N G G U - Y A_'; // Pesan saat menunggu
 global.maxwarn = 5;
 
 // URLs
