@@ -75,7 +75,7 @@ Jika Anda ingin berkontribusi atau melaporkan bug, silakan buka [issue](https://
 Salin dan jalankan perintah di bawah ini langsung di Termux:
 
 ```bash
-pkg update -y && pkg upgrade -y && pkg install -y nodejs git ffmpeg imagemagick && git clone https://github.com/VynaaValerie/VynaaMD.git && cd VynaaMD && npm install && npm start
+pkg update -y && pkg upgrade -y && pkg install -y nodejs git ffmpeg imagemagick && git clone https://github.com/sasaaarch/botzea && cd zeabot && npm install && npm start
 ---
 
 ## 📜 **Lisensi**
